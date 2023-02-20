@@ -3,15 +3,15 @@
 //
 #include <vector>
 #include <numeric>
-#ifndef LECODE_SOLUTION_H
-#define LECODE_SOLUTION_H
+#include <stack>
+#include <vector>
+#include "ListNode.cpp"
+#include "unordered_map"
 using namespace std;
-class Solution {
-public:
-    int pivotIndex(vector<int>& nums);
-    int maxProfit(vector<int>& prices);
-    
-};
-
-
-#endif //LECODE_SOLUTION_H
+//class Solution {
+//public:
+//
+//    ListNode* reverseList(ListNode* head);
+//
+//    Node* copyRandomList(Node* head);
+//};

@@ -3,4 +3,4 @@ project(lecode)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(lecode main.cpp Solution.cpp Solution.h)
+add_executable(lecode main.cpp Solution.cpp Solution.h ListNode.cpp Node.cpp)
